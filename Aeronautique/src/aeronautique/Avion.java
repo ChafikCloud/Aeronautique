@@ -23,6 +23,7 @@ public class Avion {
 		this.nom = nom;
 		this.loc = loc;
 		this.capacite = capacite;
+		this.enPlus = 15;
 	}
 
 
