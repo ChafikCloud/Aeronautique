@@ -25,7 +25,10 @@ public class Avion {
 
 
 	
-
+/**
+ * geters pour Localisation
+ * @return
+ */
 	public String getLoc() {
 		return loc;
 	}
