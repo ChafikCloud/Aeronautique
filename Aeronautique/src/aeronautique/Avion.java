@@ -7,6 +7,7 @@ public class Avion {
      private String loc;
      private int capacite;
      private int enPlus;
+     private int vol;
      
      
 /**
