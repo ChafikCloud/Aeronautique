@@ -8,7 +8,13 @@ public class Avion {
      private int capacite;
      
      
-
+/**
+ * Constructeur avion
+ * @param numero
+ * @param nom
+ * @param loc
+ * @param capacite
+ */
 	public Avion(int numero, String nom, String loc, int capacite) {
 		super();
 		this.numero = numero;
